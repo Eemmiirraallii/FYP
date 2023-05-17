@@ -19,8 +19,8 @@ Make sure you have Python 3.x installed on your system. If not, you can download
 Firstly, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/{username}/FYP.git
-cd FYP
+git clone https://github.com/{username}/FYP-main.git
+cd FYP-main
 ```
 
 Replace `{username}` with your GitHub username.
